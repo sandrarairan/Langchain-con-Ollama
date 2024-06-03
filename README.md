@@ -8,7 +8,7 @@ Langchain repo with Ollama and Llama 3 - 8b integration for RAG
 name = "local-chatbot"
 version = "0.1.0"
 description = "Un chatbot con base de datos local sobre chroma, LLM local con llama 3 y Ollama y Langchain como framework"
-authors = ["Sandra Rairan <sandrarairan@gmail.com>"]
+authors = ["Sandra Rairan <>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
